@@ -17,8 +17,8 @@ Key Features
 ✔️ Responsive design for desktop and mobile  
 
 Screenshots  
-![Login](https://github.com/Jonttufantti/Sandbacka_portfolio/blob/main/varausapp/pictures/1_Login.png?raw=true)  
-![Home](https://github.com/Jonttufantti/Sandbacka_portfolio/main/varausapp/pictures/2_home.png?raw=true)  
-![Map Popup](https://github.com/Jonttufantti/Sandbacka_portfolio/blob/main/varausapp/pictures/3_map_popup.png?raw=true)  
-![Reservation](https://github.com/Jonttufantti/Sandbacka_portfolio/blob/main/varausapp/pictures/4_reservation.png?raw=true)  
-![My Reservations](https://github.com/Jonttufantti/Sandbacka_portfolio/blob/main/varausapp/pictures/5_my-reservations.png?raw=true)
+![Login](https://github.com/Jonttufantti/Sandbacka_portfolio/blob/main/Varausapp/pictures/1_Login.png?raw=true)  
+![Home](https://github.com/Jonttufantti/Sandbacka_portfolio/main/Varausapp/pictures/2_home.png?raw=true)  
+![Map Popup](https://github.com/Jonttufantti/Sandbacka_portfolio/blob/main/Varausapp/pictures/3_map_popup.png?raw=true)  
+![Reservation](https://github.com/Jonttufantti/Sandbacka_portfolio/blob/main/Varausapp/pictures/4_reservation.png?raw=true)  
+![My Reservations](https://github.com/Jonttufantti/Sandbacka_portfolio/blob/main/Varausapp/pictures/5_my-reservations.png?raw=true)
